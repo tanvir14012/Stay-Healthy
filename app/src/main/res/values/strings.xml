@@ -1,0 +1,230 @@
+<resources>
+    <string name="app_name">Stay Healthy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="my_tips">My Tips</string>
+    <string name="search_title">Search tips</string>
+    <string name="catagory_add_folder">Add a folder</string>
+    <string name="ibN0">Boost your Immunity</string>
+    <string name="ibI0">
+        The immune system is your body\'s natural defense system. It\'s an intricate network of cells, tissues, and organs that band together to defend your body against invaders. Those invaders can include bacteria, viruses, parasites, even a fungus, all with the potential to make us sick.
+    </string>
+    <string name="ibD0">
+        Everyday Immunity-Boosting :\n
+        <b>1. Meditate\n</b>
+        Your mind can cut your chances of catching a cold by 40 to 50%, according to a 2012 University of Wisconsin, Madison, study.\n\n
+        <b>2.Try probiotics\n</b>
+        We recommend taking probiotics—foods or supplements containing bacteria that are good for your health—that include Lactobacillus.\n\n
+        <b>3. Eat more garlic\n</b>
+        Allicin, a substance in crushed garlic, helps fight viruses, says Richard Nahas, MD, assistant professor of family medicine at the University of Ottawa.\n\n
+        <b>4. Exercise\n</b>
+        People who exercise five or more days a week spend 43% fewer days with upper-respiratory infections, according to an Appalachian State University study\n\n
+        <b>5.Get vaccinated</b>
+        For flu protection, nothing is as directly effective as vaccination, says Prevention advisory board member David L. Katz, MD, MPH.\n\n
+        <b>6.Wash (and dry) your hands often\n\n</b>
+        Cleaning your hands frequently—especially after touching anyone or anything that may be germy—is key to defending yourself against cold and flu viruses.\n\n
+        <b>7.Get enough sleep\n</b>
+        Your immune system needs rest to keep you healthy \n\n
+        <b>8.Drink enough water\n</b>
+         Staying hydrated may stave off infections. Your mucous membranes and the immune cells in their secretions defend against cold viruses, and they can not work as well if you are dehydrated.\n\n
+        <b>9.Take care of your toothbrush\n</b>
+        Viruses on one toothbrush can contaminate others it touches.\n\n
+    </string>
+
+    <string name="ibN1">Reduce your exposure to allergy triggers</string>
+    <string name="ibI1">Spring means flower buds and blooming trees — and if you\'re one of the millions of people who have seasonal allergies, it also means sneezing, congestion, a runny nose and other bothersome symptoms</string>
+    <string name="ibD1">
+        1.Stay indoors on dry, windy days. The best time to go outside is after a good rain, which helps clear pollen from the air.
+    \n2.Delegate lawn mowing, weed pulling and other gardening chores that stir up allergens.
+    \n3.Remove clothes you\'ve worn outside and shower to rinse pollen from your skin and hair.
+    \n4.Don\'t hang laundry outside — pollen can stick to sheets and towels.
+    \n5.Wear a pollen mask if you do outside chores.
+    </string>
+
+    <string name="ibN2">Maintain a Balanced Diet</string>
+    <string name="ibI2">
+A balanced diet is one that gives your body the nutrients it needs to function correctly. To get the proper nutrition from your diet, you should consume the majority of your daily calories in: fresh fruits, fresh vegetables, whole grains, nuts, lean proteins etc.
+    </string>
+    <string name="ibD2">
+        <b>How to achieve a balanced diet</b>\n
+
+\n\nFruits :
+Besides being a great source of nutrition, fruits make tasty snacks. Choose fruits that are in season in your area. They’re fresher and provide the most nutrients.
+
+\n\nVegetables :
+Vegetables are primary sources of essential vitamins and minerals. Dark, leafy greens generally contain the most nutrition and can be eaten at every meal.
+
+\n\nGrains :
+Whole grains, however, are prepared using the entire grain, including the hull. They provide much more nutrition. Try switching from white breads and pastas to whole-grain products.
+
+\n\nProteins :
+Meats and beans are primary sources of protein, a nutrient that is essential for proper muscle and brain development.
+
+\n\nDairy :
+Dairy products provide calcium, vitamin D, and other essential nutrients.
+
+\n\nOils :
+Oils should be used sparingly. Opt for low-fat and low-sugar versions of products that contain oil, such as salad dressing and mayonnaise.
+    </string>
+
+    <string name="btN0">Make your skin look healthy</string>
+    <string name="btI0">
+        Could your skin be more clear and smoother than it is? Yes, absolutely! So wake up and imbibe these spells into your festive look.
+    </string>
+    <string name="btD0">
+   <b>For dull, oily and combination skin : </b>\n
+Massage the skin with iced yoghurt and sprinkle some sugar along with it. Now take orange halves and scrub gently until the granules melt. Wash the face with iced water and see the difference.
+
+\n\n<b> For dull, tired and dry skin : </b>\n
+Massage the skin with papaya. Then make a scrub by mixing oats and honey along with a little cold milk and scrub the skin. Wash off with ice cold milk and water and pat dry.
+
+</string>
+
+    <string name="hrN0">Treat your cold at home</string>
+    <string name="hrI0">
+        Being sick, even when you’re home in bed, isn’t fun. The combination of body aches, fever, chills, and nasal congestion can be enough to make anyone miserable.There are plenty of home remedies that can alleviate your symptoms and get you back to normal. If you still feel sick after a few weeks, make an appointment with your doctor. If you have trouble breathing, have a rapid heartbeat, feel faint, or experience other severe symptoms, get medical help sooner.
+    </string>
+    <string name="hrD0">
+        <b>Honey</b>\n
+Honey has a variety of antibacterial and antimicrobial properties. Drinking honey in tea with lemon can ease sore throat pain. Research suggests that honey is an effective cough suppressant, too. In one study, researchers found that giving children 10 grams of honey at bedtime reduced the severity of their cough symptoms. The children reportedly slept more soundly, which also helps reduce cold symptoms.You should never give honey to a child younger than 1 year old, as it often contains botulinum spores. While they’re usually harmless to older children and adults, infants’ immune systems aren’t able to fight them off.
+\n\n<b>Vitamin C </b>\n
+plays an important role in your body and has many health benefits. Along with limes, oranges, grapefruits, leafy greens, and other fruits and vegetables, lemons are a good source of vitamin C. Adding fresh lemon juice to hot tea with honey may reduce phlegm when you’re sick. Drinking hot or cold lemonade may also help.While these drinks may not clear up your cold entirely, they can help you get the vitamin C that your immune system needs. Getting enough vitamin C can relieve upper respiratory tract infections and other illnesses.
+\n\n<b>Ginger</b>\n
+The health benefits of ginger root have been touted for centuries, but now we have scientific proof of its curative properties. A few slices of raw ginger root in boiling water may help soothe a cough or sore throat. Research suggests that it can also ward off the feelings of nausea that so often accompany influenza. For example, one study found that just 1 gram of ginger can “alleviate clinical nausea of diverse causes.”
+\n\n<b>Garlic</b>\n
+Garlic contains the compound allicin, which may have antimicrobial properties. Adding a garlic supplement to your diet might reduce the severity of cold symptoms. According to some research, it might even help you avoid getting sick in the first place.More research needs to be done on the potential cold-fighting benefits of garlic. In the meantime, adding more garlic to your diet probably won’t hurt.
+\n\n<b>Chicken soup</b>\n
+Chicken soup may not be a cure-all, but it’s a great choice when you’re sick. Research suggests that enjoying a bowl of chicken soup with vegetables, prepared from scratch or warmed from a can, can slow the movement of neutrophils in your body. Neutrophils are a common type of white blood cell. They help protect your body from infection. When they’re moving slowly, they stay more concentrated in the areas of your body that require the most healing.
+\n\n<b>Probiotics</b>\n
+Probiotics are “friendly” bacteria and yeast that are found in your body, some foods, and supplements. They can help keep your gut and immune system healthy, and research indicates that probiotics may reduce your chance of getting sick with an upper respiratory infection.For a delicious and nutritious source of helpful bacteria, include probiotic yogurt in your diet. Besides its potential benefits for your immune system, yogurt is a healthy snack that provides plenty of protein and calcium. Look for products that list live bacteria on the label.
+\n\n<b>Salt Water</b>\n
+Gargling with salt water may help prevent upper respiratory infections. It may also decrease the severity of cold symptoms. For example, it may ease sore throat pain and nasal congestion.Gargling with salt water reduces and loosens mucus, which contains bacteria and allergens. To try this remedy at home, dissolve 1 teaspoon of salt in a full glass of water. Swish it around your mouth and throat. Then spit it out.
+\n\n<b>Echinacea</b>\n
+Native Americans have used the herb and root of the echinacea plant to treat infections for more than 400 years. Its active ingredients include flavonoids, chemicals that have many therapeutic effects on the body. For example, flavonoids can boost your immune system and reduce inflammation.
+    </string>
+    <string name="hgN0">Manage your personal hygiene</string>
+    <string name="hgI0">
+        Managing your personal hygiene is important not only to look and smell your best on a daily basis, but also to prevent the onset and spread of infectious diseases. Taking the proper precautions can help you avoid getting sick and passing illnesses on to those around you. Read this article to learn how to manage personal hygiene to both improve your overall appearance and ward off infections.
+    </string>
+    <string name="hgD0">
+    Shower daily.\n
+This is the best way to get rid of any dirt, sweat, and/or germs that your body may have accumulated throughout the day, and prevents hygiene-related diseases.
+\n\nChoose a daily face cleanser. \n
+Remember that the skin on your face is more sensitive than on other parts of your body. You can either use your face cleanser in the shower or wash your face separately at the sink.
+\n\nBrush your teeth every morning and evening.\n
+Regular tooth-brushing helps prevent gum disease, which has been linked to other illnesses elsewhere in the body like heart disease, stroke, and diabetes.
+\n\nWear deodorant. \n
+Antiperspirant helps control excessive sweat, while deodorant covers up unpleasant body odor caused by sweat
+\n\nWash your clothes after wearing them.\n
+In general, shirts should be washed after every use, while pants and shorts can be worn a few times before they require washing.
+\n\nClip your fingernails and toenails regularly. \n
+Not only will this keep your hands and feet looking their best, it will prevent hangnails, breakage, and other potential damage to your nails.
+\n\nWash your hands with soap and water. \n
+This is one of the most important ways to avoid getting sick and spreading germs to others. Wash your hands after using the restroom; before, during, and after preparing food; before eating food; before and after caring for someone who is sick; after blowing your nose, coughing, or sneezing; and after handling animals and/or animal waste.
+\n\nClean the surfaces in your home regularly. \n
+You should wipe the kitchen counter, floors, shower, and dining tables at least once a week using either soap and water or conventional household cleaning products.
+\n\nCover your nose and mouth when you cough or sneeze.\n
+This is extremely important if you want to avoid spreading germs to those around you. Be sure to wash your hands with soap and water after you cough or sneeze.
+\n\nDon't share razors, towels, or makeup with other people.\n
+Sharing personal items like these with other people increases the likelihood of spreading Staph infections.
+\n\nIf you are a woman change your tampon/pad regularly.\n
+Women who use tampons should change them at least once every 4-6 hours to reduce the likelihood of getting toxic shock syndrome (TSS)
+
+</string>
+
+    <string name="hlN0">Live long and stay healthy</string>
+    <string name="hlI0">
+        Healthy living is within your reach, starting today. Sure, healthy living is a long-term commitment, not a flash-in-the-pan fad. But there are steps you can take right now that will make today healthier than yesterday and pave the way for healthy living tomorrow, too.
+    </string>
+    <string name="hlD0">
+        <b>Make appointments with your doctor and dentist.</b>\n
+Catch up on your routine screening and immunizations, and take the opportunity to ask your doctor any questions you might have.
+\n\n<b>Assess your activity</b>\n
+How much physical activity do you get in a typical week? How intense is that activity? How much variety do you get in your activity, and how much do you enjoy it? The CDC recommends that adults get at least two and a half hours per week of moderate-intensity aerobic activity or one hour and 15 minutes per week of vigorous-intensity aerobic activity, plus muscle-strengthening activities at least two days per week.
+\n\n<b>Consider your social network</b>\n
+How strong are your connections with family and friends? Are you plugged in with social or spiritual groups that enrich your life? "People have a fundamental need for positive and lasting relationships," C. Nathan DeWall, assistant professor of psychology at the University of Kentucky
+\n\n<b>Put out fires</b>\n
+If you know that you have chronic health problems, whether it\'s heart disease, diabetes, depression, arthritis, or other conditions, treatment is an obvious priority for healthy living. The same goes for risky behaviors, such as smoking, and addictions of any kind.
+    </string>
+
+    <string name="dtN0">Lose your weight</string>
+    <string name="dtI0">Getting started, a 12-week weight loss guide combining advice on healthier eating and physical activity.</string>
+    <string name="dtD0">
+        <b>Don\'t skip breakfast</b>\n
+Skipping breakfast won\'t help you lose weight. You could miss out on essential nutrients and you may end up snacking more throughout the day because you feel hungry.
+\n\n<b>Eat regular meals</b>\n
+Eating at regular times during the day helps burn calories at a faster rate. It also reduces the temptation to snack on foods high in fat and sugar.
+\n\n<b>Eat plenty of fruit and veg</b>\n
+Fruit and veg are low in calories and fat, and high in fibre – three essential ingredients for successful weight loss. They also contain plenty of vitamins and minerals.
+\n\n<b>Drink plenty of water</b>\n
+People sometimes confuse thirst with hunger. You can end up consuming extra calories when a glass of water is really what you need.
+\n\n<b>Eat high-fibre foods</b>\n
+Knowing how to read food labels can help you choose healthier options. Use the calorie information to work out how a particular food fits into your daily calorie allowance on the weight loss plan.
+    </string>
+    <string name="ftN0">Stay Fit</string>
+    <string name="ftI0">
+    Physical fitness is a state of health and well-being and, more specifically, the ability to perform aspects of sports, occupations and daily activities.
+</string>
+    <string name="ftD0">
+    <b>Build Better Abs</b>\n
+Don\'t work your abdominal muscles every day. "Physiologically, your abs are like any other muscle in your body," says David Pearson, Ph.D., C.S.C.S., an exercise scientist at Ball State University. Train them only 2 or 3 days a week.
+
+\n\n<b>Protect Your Neck</b>\n
+Put your tongue on the roof of your mouth when you do crunches. "It will help align your head properly, which helps reduce neck strain," says Michael Mejia, C..S.C.S., Men\'s Health exercise advisor.
+
+\n\n<b>Keep Muscles Limber</b>\n
+If you\'re under 40, hold your stretches for 30 seconds. If you\'re over 40, hold them for 60 seconds. As you reach your 40s, your muscles become less pliable, so they need to be stretched longer.
+
+\n\n<b>Don\'t Drop the Ball</b>\n
+To catch a pop fly in the sun, use your glove to shade your eyes. It\'s bigger than your free hand and puts the leather in perfect position to snag the ball.
+
+\n\n<b>Grow Muscle, Save Time</b>\n
+Keep your weight workouts under an hour. After 60 minutes, your body starts producing more of the stress hormone cortisol, which can have a testosterone-blocking, muscle-wasting effect.
+
+\n\n<b>Exercise in Order</b>\n
+Use dumbbells, barbells, and machines—in that order. "The smaller, stabilizer muscles you use with dumbbells fatigue before your larger muscle groups," says Charles Staley, a strength coach in Las Vegas.  So progress to machines, which require less help from your smaller muscles, as you grow tired.
+</string>
+
+    <string name="faN0">Cuts and Scrapes</string>
+    <string name="faI0">What would you do if you cut your finger while chopping vegetables? Minor injuries happen every day, and most are easy to treat at home. But to handle them quickly and calmly, you need to know what to do and have the right supplies.</string>
+    <string name="faD0">
+        1.<b>Wash your hands</b>: First, wash up with soap and water so you don’t get bacteria into the cut and cause an infection. If you’re on the go, use hand sanitizer.
+\n\n<b>2.Stop the bleeding</b> :Put pressure on the cut with a gauze pad or clean cloth. Keep the pressure on for a few minutes.
+\n\n3.Clean the wound : Once you’ve stopped the bleeding, rinse the cut under cool running water or use a saline wound wash. Clean the area around the wound with soap and a wet washcloth. Don’t get soap in the cut, because it can irritate the skin. And don’t use hydrogen peroxide or iodine, which could irritate the cut.
+\n\n4.Remove any dirt or debris : Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut.
+    </string>
+
+    <string name="mlN0">Care about psychological well being</string>
+    <string name="mlI0">
+        Mental health is a level of psychological well-being, or an absence of mental illness. It is the "psychological state of someone who is functioning at a satisfactory level of emotional and behavioural adjustment".
+    </string>
+    <string name="mlD0">
+        <b>Value yourself</b>\n
+Treat yourself with kindness and respect, and avoid self-criticism. Make time for your hobbies and favorite projects, or broaden your horizons. Do a daily crossword puzzle, plant a garden, take dance lessons, learn to play an instrument or become fluent in another language.
+\n\n<b>Surround yourself with good people</b>\n
+People with strong family or social connections are generally healthier than those who lack a support network. Make plans with supportive family members and friends, or seek out activities where you can meet new people, such as a club, class or support group.
+\n\n<b>Give yourself</b>\n
+Volunteer your time and energy to help someone else. You\'ll feel good about doing something tangible to help someone in need — and it\'s a great way to meet new people. See Fun and Cheap Things to do in Ann Arbor for ideas.
+\n\n<b> Learn how to deal with stress</b>\n
+Like it or not, stress is a part of life. Practice good coping skills: Try One-Minute Stress Strategies, do Tai Chi, exercise, take a nature walk, play with your pet or try journal writing as a stress reducer.
+\n\n<b>Set realistic goals</b>\n
+Decide what you want to achieve academically, professionally and personally, and write down the steps you need to realize your goals. Aim high, but be realistic and don\'t over-schedule. You\'ll enjoy a tremendous sense of accomplishment and self-worth as you progress toward your goal.
+    </string>
+    <string name="ccN0">Care for a Newborn</string>
+    <string name="ccI0">Essential Newborn Care(ENC) is care that every newborn baby needs regardless of where it is born or its size. ENC should be apllied immediately after the baby is born and continued for at least the first 7 days after birth.</string>
+    <string name="ccD0">
+        1. Wash your hands (or use a hand sanitizer) before handling your baby. Newborns don\'t have a strong immune system yet, so they are susceptible to infection. Make sure that everyone who handles your baby has clean hands.
+\n\n2. Be careful to support your baby\'s head and neck. Cradle the head when carrying your baby and support the head when carrying the baby upright or when you lay your baby down.
+\n\n3. Be careful not to shake your newborn, whether in play or in frustration. Shaking that is vigorous can cause bleeding in the brain and even death. If you need to wake your infant, don\'t do it by shaking — instead, tickle your baby\'s feet or blow gently on a cheek.
+\n\n4. Make sure your baby is securely fastened into the carrier, stroller, or car seat. Limit any activity that could be too rough or bouncy.
+\n\n5. Remember that your newborn is not ready for rough play, such as being jiggled on the knee or thrown in the air.
+    </string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mytips_list">MytipsListActivity</string>
+</resources>

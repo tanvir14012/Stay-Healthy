@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_tips"
+            android:icon="@drawable/health_tips"
+            android:title="Health Tips" />
+        <item
+            android:id="@+id/nav_quiz"
+            android:icon="@drawable/health_quiz"
+            android:title="Health Quiz" />
+        <item
+            android:id="@+id/nav_my_tips"
+            android:icon="@drawable/my_tips"
+            android:title="@string/my_tips" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+
+</menu>

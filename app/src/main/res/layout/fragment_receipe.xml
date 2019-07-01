@@ -1,0 +1,56 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/receipe_fragment"
+android:layout_width="match_parent"
+android:layout_height="wrap_content">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="TextView"
+        android:textColor="#40A4DF"
+        android:textSize="26sp"
+        android:textIsSelectable="true"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Descibe the importance of the tip here"
+        android:textIsSelectable="true"
+        android:gravity="fill_horizontal"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:adjustViewBounds="true"
+        android:paddingLeft="8dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="fill_horizontal"
+        android:layout_margin="8dp"
+        android:textIsSelectable="true"
+        android:text="TextView"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="18sp" />
+</LinearLayout>
+
+</ScrollView>
+
